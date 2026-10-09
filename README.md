@@ -40,3 +40,5 @@ An interactive memory game built using Arduino Uno and ESP32. Players repeat LED
 
 ## Author
 Vidya Sri Madabattula
+Varshitha Dobbala
+Niharika Jagarapu
